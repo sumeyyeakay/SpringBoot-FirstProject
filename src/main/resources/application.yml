@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/spring_demo"
+    data-username: "root"
+    data-password: "SpringbootDemoApplication"
